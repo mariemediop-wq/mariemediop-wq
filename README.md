@@ -10,7 +10,7 @@
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
 | ☁️ [Stockage Azure](https://github.com/mariemediop-wq/stockage-azure-cloud) | Application de stockage de fichiers dans le cloud | Java, Spring Boot, Azure Blob Storage |
-| 🐦 [Tweet Analysis](https://github.com/mariemediop-wq/tweet-analysis-bigdata) | Analyse en temps réel de tweets | Kafka, Cassandra, Elasticsearch |
+| 🐦 [Tweet Analysis](https://github.com/mariemediop-wq/tweet-analysis-bigdata) | Analyse en temps réel de tweets | Kafka, Cassandra, Elasticsearch, Kibana, Doker |
 
 ---
 
